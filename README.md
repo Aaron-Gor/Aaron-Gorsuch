@@ -1,14 +1,16 @@
-# Aaron-Gorsuch
-First attempt at a repository
-# Hello!
-My name is <Aaron-Gorsuch>.
-This is my first exercise creating a repo.
-I will add more information here as time goes on. 
+**Exams Business Manager & Customer Services Manager**
 
-In this file, I will learn markdown. I will learn it by:
-* Practicing
-* Trial and error
-* Copying examples and seeing their output.
-I will use [this reference](https://guides.github.com/features/mastering-markdown/) as a guide.
+**Company Name:** British Council [British Council] (www.britishcouncil.org.il)
 
-One day **soon** I will be a markdown master.
+**Dates Employed:** Oct 2013 – Feb 2020
+
+**Employment Duration:** 6 yrs 5 mos
+
+**Location:** Tel Aviv, Israel
+
+*Managed exams business.
+*Turned business from loss to profit, non-compliance to compliance.
+*High security (government recognised) test delivery
+*Led business from pen and paper to online deliveries.
+*Customer Services Manager
+*Child Protection Focal Point
