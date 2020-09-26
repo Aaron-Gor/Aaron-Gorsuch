@@ -1,4 +1,4 @@
-**Exams Business Manager & Customer Services Manager**
+**Exams Business Manager & Customer Service Manager**
 
 **Company Name:** British Council [British Council] (www.britishcouncil.org.il)
 
